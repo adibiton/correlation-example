@@ -1,0 +1,12 @@
+{
+  "name": "producer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-correlation-id": "^1.0.2",
+    "request": "^2.79.0"
+  }
+}
